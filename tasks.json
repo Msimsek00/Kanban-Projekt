@@ -1,0 +1,12 @@
+{
+  "todo": [
+    {
+      "title": "tetsd",
+      "description": "dssd",
+      "deadline": "2025-05-28",
+      "priority": "Niedrig"
+    }
+  ],
+  "inprogress": [],
+  "done": []
+}
